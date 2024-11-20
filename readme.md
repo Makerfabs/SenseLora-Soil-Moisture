@@ -1,8 +1,8 @@
 SenseLora Soil Moisture
 ```c++
 /*
-Version:		V1.0
-Author:		Yuki
+Version:	    V1.0
+Author:		    Yuki
 Create Date:	2024/11/20
 Note:
 */
