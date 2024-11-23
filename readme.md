@@ -36,11 +36,11 @@ Specs:
 
 # Usage
 
-1.Usage with LoRa Receiver
+1.[Usage with LoRa Receiver](https://wiki.makerfabs.com/SenseLora_Soil_Moisture.html#4-usage-with-lora-receiver)
 
 The Lora receiver work with SenseLora modules, it receive LoRa signal around and forward to computer, so the data can be display/record/analyze on PC.
 
-2.Usage with 4G Gateway
+2.[Usage with 4G Gateway](https://wiki.makerfabs.com/SenseLora_Soil_Moisture.html#5-usage-with-4g-gateway)
 
 The 4G LTE CAT1 Gateway work with SenseLora modules, it get the LoRa data and then transmit the data via 4G to cloud server such as TTN, or the monitors phone with SMS.  
 
