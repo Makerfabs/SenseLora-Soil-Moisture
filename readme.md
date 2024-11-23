@@ -16,7 +16,7 @@ Note:
 
 ## Intruduce
 
-Product Link:[SenseLora Soil Moisture](https://www.makerfabs.com/catalogsearch/result/?q=Senselora)
+Product Link:[SenseLora Soil Moisture](https://www.makerfabs.com/senselora-soil-moisture.html)
 
 Wiki Link : [SenseLora Soil Moisture](https://wiki.makerfabs.com/SenseLora_Soil_Moisture.html)
 
